@@ -7,6 +7,12 @@ Tech Bluff Arena is a multiplayer tech bluffing party game. Each round presents 
 🎮 **Play it live:** https://tech-bluff-arena.thjrartistry.chatgpt.site/
 🏆 **Handshake AI Showcase:** https://app.joinhandshake.com/ai-showcase/projects/3543132 *(Handshake account/sign-in may be required to view)*
 
+## Gallery
+
+![Tech Bluff Arena — home screen](images/tech-bluff-home.png)
+
+*The game's home screen — create a room, share the code, and start bluffing. No login; just a name and your best poker face.*
+
 ## How it plays
 
 - **2–6 players**, joined by room codes — no accounts needed
@@ -25,5 +31,5 @@ This repository is the project's showcase page. The game itself is played live a
 ## Author
 
 **Honey-Leen Jamiro Rivera**
-GitHub: https://github.com/h1ym13ll3
+GitHub: https://github.com/honeyleenjr
 LinkedIn: https://www.linkedin.com/in/honeyleenjr
